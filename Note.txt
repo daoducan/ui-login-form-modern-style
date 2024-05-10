@@ -1,0 +1,79 @@
+Cấu hình VS Code cho coding HTML CSS JS
+Font chữ SF Mono
+Thiết lập VSCode cơ bản: fonts, letter-spacing, line-height, theme
+    bấm vào Bánh răng > chọn Settings > tìm Font Size > để là 13 hoặc 14...
+    Font Family: SF Mono
+    Line Height: 30
+    Letter Spacing: 0
+    Word Wrap: on
+    Word wrap column: 100
+    Format On Save: tick chọn vào
+    Default Formatter: chọn Prettier - Code Formatter
+    
+
+
+Cài theme cho VSCode > vào trang VScode themes > chọn theme bạn thích > chọn cái có lượt tải nhiều
+
+Cài đặt các Extensions trong VScode
+    bấm vào biểu tượng Extensions bên trái của VScode
+    Gõ tên theme bạn muốn cài.
+
+    Cài một số Extensions cần thiết cho việc coding:
+        - Auto Rename Tag`
+        - Color Hightlight
+        - HTML CSS Support
+        - CSS Peek
+        - Hightlight Matching Tag
+        - HtML to CSS autocompletion
+        - Live Preview
+        - Prettier
+        - Server Live
+
+Tổ hợp phím cơ bản trong VScode
+Ctrl + P: để search file by name
+Ctrl + Shift + P: sẽ hiện ra rất nhiều các lệnh có sẵn của VScode
+Ctrl + D: Chọn nhiều từ giống nhau
+Ctrl + Shift + L: Chọn hết tất cả các từ giống nhau
+Alt + mũi tên lên xuống: Di chuyển 1 hoặc nhiều dòng lên xuống
+Alt + Shift + mũi tên lên xuống: Sao chép dòng đó lên trên hoặc xuống dưới...
+
+
+
+
+
+
+
+Sử dụng trình duyệt Chrome và cài các Extensions sau:
+VisBug Chrome Extension (dùng để test giao diện rất nhiều)
+Dimensions Extension
+Eye Dropper (dùng để lấy mã màu)
+Color Slurp (dùng cho MacOS)
+
+đặt tên thư mục bằng chữ thường và chữ gạch ngang: ui-html-css-master, ui-template-master...
+Cách import folder vào VS Code (kéo thả folder vào VS Code và bấm giữ Shift)
+
+Dùng Chrome DevTools để test Website
+
+Dùng Figma và tạo tài khoản đăng nhập Figma với Google account.
+
+Cài đặt Node.js và Gitbash
+
+Mở gitbash terminal ngay trên VS Code:
+    bấm vào Terminal > chọn New Terminal
+    gõ node -v để xem version
+    (bên trái cửa sổ Terminal có mũi tên trỏ xuống > bấm vào > chọn Select Default Profile > chọn Bash cho dễ sử dụng)
+
+Khởi động lại VS Code hoặc reload new config trong VS Code
+    bấm Ctrl + Shift + P > gõ vào Reload > chọn Reload Windows
+
+
+Công cụ Vite là công cụ giúp xây dựng project nhanh hơn
+Đây cũng là công cụ để Generate front-end nhanh dễ dàng hơn
+Vào trang chủ Vite
+    Tìm đến hướng dẫn Generate một project HtmL css
+    Gõ câu lệnh: $ npm create vite@latest
+    Câu lệnh trên để generate ra một project HTML CSS ban đầu
+    Điền tên của project > chọn Vanilla để tạo một Project thuần CSS HTML js > chọn tiếp Javascript
+
+
+
